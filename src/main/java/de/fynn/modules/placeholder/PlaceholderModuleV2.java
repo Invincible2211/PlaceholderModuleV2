@@ -1,4 +1,4 @@
-package de.fynn.placeholder;
+package de.fynn.modules.placeholder;
 
 import net.minestom.server.extensions.Extension;
 

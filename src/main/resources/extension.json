@@ -1,0 +1,10 @@
+{
+  "entrypoint": "de.fynn.modules.placeholder.PlaceholderModuleV2",
+  "name": "PlaceholderModuleV2",
+  "version": "1.0.0",
+  "dependencies": [],
+  "externalDependencies": {
+    "repositories": [],
+    "artifacts": []
+  }
+}

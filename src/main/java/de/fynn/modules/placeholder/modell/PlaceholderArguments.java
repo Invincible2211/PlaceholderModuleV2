@@ -1,4 +1,4 @@
-package de.fynn.placeholder.modell;
+package de.fynn.modules.placeholder.modell;
 
 import java.util.HashMap;
 import java.util.List;

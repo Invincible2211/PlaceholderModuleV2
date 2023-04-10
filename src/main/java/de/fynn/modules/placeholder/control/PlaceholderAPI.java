@@ -1,7 +1,7 @@
-package de.fynn.placeholder.control;
+package de.fynn.modules.placeholder.control;
 
-import de.fynn.placeholder.modell.Placeholder;
-import de.fynn.placeholder.modell.PlaceholderArguments;
+import de.fynn.modules.placeholder.modell.Placeholder;
+import de.fynn.modules.placeholder.modell.PlaceholderArguments;
 
 public class PlaceholderAPI {
 
